@@ -2,7 +2,7 @@ package sequencias_basicas;
 
 import java.util.Scanner;
 
-public class questao_5 {
+public class questao_05 {
 	public static void main(String[] args) {
 		Scanner keyboard = new Scanner(System.in);
 		

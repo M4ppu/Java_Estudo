@@ -2,7 +2,7 @@ package sequencias_basicas;
 
 import java.util.Scanner;
 
-public class questao_9 {
+public class questao_09 {
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
 		double real, convert;
